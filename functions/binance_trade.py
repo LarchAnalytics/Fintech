@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 4-26-2023
 # Larch Analytics
 # Written By: Michael Masters
