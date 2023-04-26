@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 4-26-2023
 # Larch Analytics
 # Written By: Michael Masters
@@ -9,6 +8,7 @@
 
 import ascending_triangle   # provides notification on ascending triangle buy opportunity
 
+# nex imports
 
 
 
