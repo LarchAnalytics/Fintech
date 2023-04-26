@@ -1,5 +1,7 @@
 # 4-26-2023
 # Larch Analytics
+# Written By: Michael Masters
+# mmasters@larchanalytics.com
 
 # This function takes a pandas DataFrame data containing the high, low, and close price and returns a 
 # binary array indicating where an ascending triangle pattern is detected. The function first calculates 
