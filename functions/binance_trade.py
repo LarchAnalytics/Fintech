@@ -7,8 +7,10 @@
 # into the trading model. You must have Binance API for it to work properly.
 
 import ascending_triangle   # provides notification on ascending triangle buy opportunity
+import _mysql_connector # import data from database
 
-# nex imports
+
+
 
 
 
